@@ -27,8 +27,14 @@ ai数字人平台
 ![image](https://github.com/user-attachments/assets/6240b67a-47a9-44a4-bddf-2c113b5f825f)
 ![image](https://github.com/user-attachments/assets/27871818-d56a-42d7-a8a9-b42ae09177f6)
 
+后续功能:分站功能
+可以给用户开通分站 让用户自己去找客户 用户从他分站注册收益和他绑定  
+用户可以自己去设置网站logo 名称  让用户能自由发展 自己定义价格. 而你可以拿抽成
+<img width="1267" alt="Snipaste_2025-06-11_11-32-11" src="https://github.com/user-attachments/assets/d867d573-5e12-4649-b570-3a57d89be596" />
+
+
+
 ## 💰 授权购买
 
-- 商用授权价格: **588元**
-- 前后端源码价格请私聊咨询
+- 商用授权+搭建价格: **588元**
 - 购买授权请联系微信: **soe303** (备注github)
